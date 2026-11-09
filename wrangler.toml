@@ -1,0 +1,8 @@
+name = "pannaton-spu"
+pages_build_output_dir = "."
+compatibility_date = "2025-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "peem_portfolio_db"
+database_id = "52c30253-eded-4412-8f3b-c9720c3ba608"
